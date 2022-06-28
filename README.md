@@ -31,9 +31,21 @@ Acessar no navegador de sua preferência
 Além de utilizar a bilbioteca React, utilizei também:
 
 - Vite;
+- GraphQL
+- GraphCMS
+- Apollo-Client
 - Date-fns;
 - Tailwind;
 - Phosphor icons;
+
+## GraphQL
+É uma linguagem de consulta para APIs e um tempo de execução.
+
+## GraphCMS
+O GraphCMS oferece APIs de conteúdo GraphQL instantâneas para criar, enriquecer, unificar e entregar seu conteúdo entre plataformas.
+
+## Apollo-Client
+É uma biblioteca abrangente de gerenciamento de estado para JavaScript que permite gerenciar dados locais e remotos com o GraphQL. Use-o para buscar, armazenar em cache e modificar dados do aplicativo.
 
 ## Vite
 Vite é uma ferramente de uso em conjunto com o React que visa fornecer uma maior experiência de desenvolvimento, mais rápida e enxuta para projetos modernos.
