@@ -10,7 +10,7 @@ O objetivo geral desse projeto é a o desenvolvimento da plataforma de eventos p
 
 ## Visualização
 
-*Em breve
+https://platform-event-react.vercel.app/
 
 ## Para utilizar
 
